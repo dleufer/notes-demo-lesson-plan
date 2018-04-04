@@ -1,0 +1,25 @@
+base knowledge
+
+repo
+  project per discrete step
+    readme (project overview)
+    lesson plan - for teacher/mentor
+    step-by-step instructions - for student
+    additional resources
+      code smples
+      images
+      
+gitbook
+  cover page
+  ...
+  whatever steps and sections the proejct requires
+  ...
+  wiki
+  repo
+  home
+  
+deving
+  branches
+    d-*
+    e-*
+    master
