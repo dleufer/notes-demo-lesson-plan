@@ -6,24 +6,24 @@ repo
     lesson plan - for teacher/mentor
     step-by-step instructions - for student
     additional resources
-      code smples
+      code samples
       images
-      
+
 gitbook
   cover page
   ...
-  whatever steps and sections the proejct requires
+  whatever steps and sections the project requires
   ...
   wiki
   repo
   home
-  
+
 deving
   branches
     d-*
     e-*
     master
-    
+
 new template notes repo
   branches
     master
@@ -32,13 +32,13 @@ new template notes repo
       explanation of & link to each other branch
       resource links for setuping
       a whole bunch of summary.md's
-        branches demosntrate possible folder structures
+        branches demonstrate possible folder structures
         these files demonstrate possible gitbook organizations
         they can mix & match
     many examples?
       by-project
       by-concept
-      by-day 
+      by-day
     one suggested branch?
       - do quizzes go in a separate folder and are sorted by the summary?
       - do quizzes go in the folder of their project/concept
@@ -48,7 +48,7 @@ new template notes repo
           readme
           specific resources
           resources link
-            including links to relevent concept folders
+            including links to relevant concept folders
       concepts
         folder per concept
           readme
@@ -56,6 +56,3 @@ new template notes repo
           use cases
           resources links
             including links to relevant projects
-  
-          
-      
